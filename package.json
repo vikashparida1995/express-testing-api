@@ -2,8 +2,8 @@
   "name": "rest-api-tutorial-updated",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Tom Nagle",
-  "license": "MIT",
+  "author": "vikash parida",
+  "license": "",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
     "test": "jest"
